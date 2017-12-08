@@ -1,0 +1,27 @@
+Change Physical Footprint: Designator=B1 Old Footprint=Button 5x5 New Footprint=Button 5x5
+Change Physical Footprint: Designator=B2 Old Footprint=Button 5x5 New Footprint=Button 5x5
+Change Physical Footprint: Designator=B3 Old Footprint=Button 5x5 New Footprint=Button 5x5
+Change Physical Footprint: Designator=C1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C4 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C5 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C6 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=CN1 Old Footprint=DS1022 1x3 New Footprint=DS1022 1x3
+Change Physical Footprint: Designator=CN2 Old Footprint=DS1022 1x3 New Footprint=DS1022 1x3
+Change Physical Footprint: Designator=CN3 Old Footprint=DS1022 1x3 New Footprint=DS1022 1x3
+Change Physical Footprint: Designator=JP2 Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=LD1 Old Footprint=LED New Footprint=LED
+Change Physical Footprint: Designator=LD2 Old Footprint=LED New Footprint=LED
+Change Physical Footprint: Designator=R2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R4 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R5 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R6 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R7 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=U1 Old Footprint=ATmega8 New Footprint=ATmega8
+Change Physical Footprint: Designator=U2 Old Footprint=7805 SMD New Footprint=7805 SMD
+Change Physical Footprint: Designator=U3 Old Footprint=7805 SMD New Footprint=7805 SMD
+Change Physical Footprint: Designator=X1 Old Footprint=HC-49SM New Footprint=HC-49SM
+Change Physical Footprint: Designator=XP1 Old Footprint=Вилка ВН-10 New Footprint=Вилка ВН-10
+Change Physical Footprint: Designator=XS1 Old Footprint=DS1022 1x6 New Footprint=DS1022 1x6
