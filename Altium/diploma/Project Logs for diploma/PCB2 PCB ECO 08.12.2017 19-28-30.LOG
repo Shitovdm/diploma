@@ -1,0 +1,43 @@
+Change Physical Footprint: Designator=B1 Old Footprint=Button 5x5 New Footprint=Button 5x5
+Change Physical Footprint: Designator=B2 Old Footprint=Button 5x5 New Footprint=Button 5x5
+Change Physical Footprint: Designator=B3 Old Footprint=Button 5x5 New Footprint=Button 5x5
+Change Physical Footprint: Designator=C1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C4 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C5 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C6 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C7 Old Footprint=A New Footprint=A
+Change Physical Footprint: Designator=C8 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C9 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C10 Old Footprint=A New Footprint=A
+Change Physical Footprint: Designator=J1 Old Footprint=LCD New Footprint=LCD
+Change Physical Footprint: Designator=J2 Old Footprint=DS1022 1x6 New Footprint=DS1022 1x6
+Change Physical Footprint: Designator=J3 Old Footprint=DS1022 1x3 New Footprint=DS1022 1x3
+Change Physical Footprint: Designator=J4 Old Footprint=DS1022 1x3 New Footprint=DS1022 1x3
+Change Physical Footprint: Designator=J5 Old Footprint=DS1022 1x3 New Footprint=DS1022 1x3
+Change Physical Footprint: Designator=J6 Old Footprint=Вилка ВН-10 New Footprint=Вилка ВН-10
+Change Physical Footprint: Designator=J7 Old Footprint=Input power New Footprint=Input power
+Change Physical Footprint: Designator=J8 Old Footprint=micro-USB New Footprint=micro-USB
+Change Physical Footprint: Designator=J9 Old Footprint=Other header New Footprint=Other header
+Change Physical Footprint: Designator=J10 Old Footprint=Other header New Footprint=Other header
+Change Physical Footprint: Designator=JP1 Old Footprint=JUMPER 3 New Footprint=JUMPER 3
+Change Physical Footprint: Designator=JP2 Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=JP3 Old Footprint=JUMPER 3 New Footprint=JUMPER 3
+Change Physical Footprint: Designator=LD1 Old Footprint=LED New Footprint=LED
+Change Physical Footprint: Designator=LD2 Old Footprint=LED New Footprint=LED
+Change Physical Footprint: Designator=LD3 Old Footprint=LED New Footprint=LED
+Change Physical Footprint: Designator=LD4 Old Footprint=LED New Footprint=LED
+Change Physical Footprint: Designator=R1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R4 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R5 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R6 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=RV1 Old Footprint=POT New Footprint=POT
+Change Physical Footprint: Designator=U1 Old Footprint=ATmega8 New Footprint=ATmega8
+Change Physical Footprint: Designator=U2 Old Footprint=7805 SMD New Footprint=7805 SMD
+Change Physical Footprint: Designator=U3 Old Footprint=7805 SMD New Footprint=7805 SMD
+Change Physical Footprint: Designator=U4 Old Footprint=CP2102 New Footprint=CP2102
+Change Physical Footprint: Designator=U5 Old Footprint=SP0503B New Footprint=SP0503B
+Change Physical Footprint: Designator=X1 Old Footprint=HC-49SM New Footprint=HC-49SM

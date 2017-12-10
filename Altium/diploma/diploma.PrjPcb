@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for diploma
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -157,6 +157,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for diploma\AutoCAD PCB\PCB2.DWG
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for diploma\AutoCAD SCH\Scheme.DWG
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -185,7 +193,7 @@ TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=1
 SCH_PrintColor=0
-PrintQuality=-3
+PrintQuality=-4
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
@@ -204,7 +212,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for diploma
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1062,7 +1070,7 @@ ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=giro-stable.SchLib
 ComponentDesignItemID2=Button
 ComponentSymbolReference2=Button
-ComponentUpdate2=0
+ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=giro-stable.SchLib
@@ -1104,7 +1112,7 @@ ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=giro-stable.SchLib
 ComponentDesignItemID9=MG-10-222
 ComponentSymbolReference9=MG-10-222
-ComponentUpdate9=1
+ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=giro-stable.SchLib

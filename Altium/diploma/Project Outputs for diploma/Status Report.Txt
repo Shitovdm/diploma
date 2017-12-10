@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:46:33 On 10.12.2017
+
+Output: AutoCAD dwg/dxf File Schematic
+Type  : AutoCAD SCH
+From  : Schematic Document [Scheme.SchDoc]
+   Generated File[Scheme.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:46:33 On 10.12.2017

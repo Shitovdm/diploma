@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~diploma.PrjPcb|ReportField=ProjectFullPath~C:\Users\Шитов Дмитрий\Desktop\Диплом\Altium\diploma\diploma.PrjPcb|ReportField=Title~Bill of Materials For Project [diploma.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~43|ReportField=ReportTime~18:04:43|ReportField=ReportDate~10.12.2017|ReportField=ReportDateTime~10.12.2017 18:04:43|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Шитов|ReportField=CheckedBy~Нальский|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~10.12.2017|ReportField=CurrentTime~17:59:29|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Шитов Дмитрий\Desktop\Диплом\Altium\diploma\Scheme.SchDoc|ReportField=DocumentName~Scheme.SchDoc|ReportField=DocumentNumber~|ReportField=DocumentType~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=EngineerName~|ReportField=FirstReferrence~|ReportField=ImagePath~|ReportField=Letter1Column~|ReportField=Letter2Column~|ReportField=Letter3Column~|ReportField=Mass~|ReportField=ModifiedDate~10.12.2017|ReportField=NormInspection~|ReportField=Organization~|ReportField=ProcessInspection~|ReportField=ProjectName~diploma.PrjPcb|ReportField=Revision~|ReportField=Rule~Undefined|ReportField=Scale~1:1|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=Title2str~|ReportField=Взам. инв. №~|ReportField=Инв. № дубл.~|ReportField=Инв. № подл.~|ReportField=Литера~|ReportField=Масштаб~|ReportField=Н.контр.~|ReportField=Наименование изделия 1~Гиростабилизатор|ReportField=Наименование изделия 2~Схема электрическая|ReportField=Наименование изделия 3~принципиальная|ReportField=Наименование организации~ИТС-43|ReportField=Нач. отд.~|ReportField=Номер листа~|ReportField=Обозначение документа~МИЭТ-8140787 ЭЗ|ReportField=Общее количество листов~|ReportField=Перв. применение~МИЭТ-8140787 ЭЗ|ReportField=Пров.~Нальский|ReportField=Разраб.~Шитов|ReportField=Справ. №~|ReportField=Т.контр.~|ReportField=Утв.~|ReportField=Фамилия нач. отд.~|ReportField=DataSourceFileName~diploma.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Шитов Дмитрий\Desktop\Диплом\Altium\diploma\diploma.PrjPcb
+1|Button||BT1, BT2, BT3|Button 5x5|Button|3
+2|С0805||C1, C2, C3, C4, C5, C6, C8, C9|0805|С0805|8
+3|С3/4||C7, C10|A|С3/4|2
+4|LCD||J1|LCD|LCD|1
+5|MG-10-222||J2|DS1022 1x6|MG-10-222|1
+6|Servo||J3, J4, J5|DS1022 1x3|Servo|3
+7|Вилка ВН-10||J6|Вилка ВН-10|Вилка ВН-10|1
+8|Input power||J7|Input power|Input power|1
+9|USB||J8|micro-USB|USB|1
+10|Other header||J9|Other header|Other header|1
+11|Other header 2||J10|Other header|Other header 2|1
+12|Jumper 3||JP1, JP3|JUMPER 3|Jumper 3|2
+13|Jumper||JP2|Jumper|Jumper|1
+14|LED||LD1, LD2|LED|LED|2
+15|RX_LED||LD3|LED|LED|1
+16|TX_LED||LD4|LED|LED|1
+17|R0805||R1, R2, R3, R4, R5, R6|0805|R0805|6
+18|POT||RV1|POT|POT|1
+19|ATmega8||U1|ATmega8|ATmega8|1
+20|7805 SMD||U2, U3|7805 SMD|7805 SMD|2
+21|CP2102||U4|CP2102|CP2102|1
+22|SP0503B|TO-253|U5|SP0503B|SP0503B|1
+23|XTAL||X1|HC-49SM|XTAL|1
