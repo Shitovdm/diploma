@@ -1,2 +1,0 @@
-# diploma
-My diploma project.
